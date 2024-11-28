@@ -1,1 +1,1 @@
-# transfer-leraning-redes-neurais
+# transfer-learning-redes-neurais
